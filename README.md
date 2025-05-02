@@ -10,7 +10,7 @@
 
 - Writes a tidy feature table (Parquet or CSV) ready for modelling or back-tests.
 
-**Input:**
+**Input Data:**
 
 `first_25000_rows.csv`
 
