@@ -14,7 +14,7 @@
 
 `python ofi_features.py first_25000_rows.csv --out ofi_features.parquet`
 
-**Output columns** (In the csv file):
+**Output columns** (In the ofi_features_csv.csv file):
 
 | Name                   | Description                          |
 |------------------------|--------------------------------------|
