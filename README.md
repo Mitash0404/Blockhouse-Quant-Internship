@@ -10,6 +10,10 @@
 
 - Writes a tidy feature table (Parquet or CSV) ready for modelling or back-tests.
 
+**Input:**
+
+`first_25000_rows.csv`
+
 **Run from terminal:**
 
 `python ofi_features.py first_25000_rows.csv --out ofi_features.parquet`
